@@ -13,3 +13,4 @@ a través de WhatsApp, SMS y Email
 * [Shore](https://www.shore.com/es/recordatorios-automaticos/) Envía recordatorios automáticos y reduce tus citas fallidas en más de la mitad
 * [Nimbo](https://www.nimbo-x.com/nueva-funcionalidad/recordatorios-de-cita-por-whatsapp) Recordatorios de cita por Whatsapp, dentro de software hospitalario
 * [Blynk](https://blynk.io/) is a hardware-agnostic IoT platform with white-label mobile apps, private clouds, device management, data analytics, and machine learning.
+* [Tutorial Raspberry Pi - Uso de Telegram desde la terminal](https://geekytheory.com/tutorial-raspberry-pi-uso-de-telegram-desde-la-terminal)
